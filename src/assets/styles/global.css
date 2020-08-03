@@ -43,3 +43,9 @@ button,
 textarea {
   font: 500 1.6rem Poppins;
 }
+
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
