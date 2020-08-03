@@ -20,3 +20,9 @@
   --color-box-base: #FFFFFF;
   --color-box-footer: #FAFAFC;
 }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
