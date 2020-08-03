@@ -36,3 +36,10 @@ body,
 body {
   background: var(--color-background);
 }
+
+body,
+input,
+button,
+textarea {
+  font: 500 1.6rem Poppins;
+}
